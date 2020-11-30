@@ -24,7 +24,7 @@ In order to add some generic question, when the chatbot don't ask a question, 1 
 Possible improvement: In august 2020, BlendedSkillTalk was the state of the art for a chatbot (for the version 3B parameters). This will probably change soon and changing the model should be easy, see the function create_agent_and_persona in chatbot.py
 
 
-Most of the fonction for the chatbot are in the file chatbot.py
+Most of the function for the chatbot are in the file chatbot.py
 
 ## Memory
 
